@@ -1,4 +1,3 @@
-import imp
 from types import new_class
 import numpy as np
 import matplotlib.pyplot as plt
@@ -7,6 +6,11 @@ import time
 import os
 import cv2
 import random
+import speech_recognition 
+import pyttsx3
+from datetime import date
+from datetime import datetime
+
 
 
 # chuong trinh auto chay
@@ -31,20 +35,30 @@ def make_resize(cap):
     cap.set(3,1920)
     cap.set(4,1080)
 
+rb_mouth = pyttsx3.init()
 cam_port = 0
 def take_image():
-    print("Chi nhap ten rieng cua ban, viet khong dau: ")
+    print("Robot: Hello, It's good to talk to you too. Come on, tell me your name...")
+    rb_mouth.say("Hello, It's good to talk to you too. Come on, tell me your name...")
+    rb_mouth.runAndWait()
+    print("Enter your name: ")
     name = str(input())
     title = random.random()
+    time.sleep(1)
     cam = cv2.VideoCapture(cam_port)
     make_resize(cam) 
+
+    print("------ take photo -----")
+    rb_mouth.say("Wait a minute. I'm taking a photo!!!")
+    rb_mouth.runAndWait()
+    time.sleep(3)
     result, image = cam.read()
-    time.sleep(1)
     if result:
-        print("------ dang lay anh -----")
         pkg =  str(title)
         cv2.imwrite("train_test/Face/"+ name + pkg +".jpg", image)
-        print("***Lay anh thanh cong***")
+        print("-------------successful photo capture--------------***")
+        rb_mouth.say("Successful photo capture!!!")
+        rb_mouth.runAndWait()
     else:
         print("Error!!!!!!!!!!!!!!!")
 
