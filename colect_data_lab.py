@@ -36,10 +36,10 @@ def make_resize(cap):
     cap.set(4,1080)
 
 rb_mouth = pyttsx3.init()
-cam_port = 0
+cam_port = 1
 def take_image():
-    print("Robot: Hello, It's good to talk to you too. Come on, tell me your name...")
-    rb_mouth.say("Hello, It's good to talk to you too. Come on, tell me your name...")
+    print("Robot: Hello, tell me your name...")
+    rb_mouth.say("Hello, tell me your name...")
     rb_mouth.runAndWait()
     print("Enter your name: ")
     name = str(input())
@@ -51,10 +51,11 @@ def take_image():
     print("------ take photo -----")
     rb_mouth.say("Wait a minute. I'm taking a photo!!!")
     rb_mouth.runAndWait()
-    time.sleep(3)
-    result, image = cam.read()
+    for i in range(5):
+        result, image = cam.read()
     if result:
         pkg =  str(title)
+        # img_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
         cv2.imwrite("train_test/Face/"+ name + pkg +".jpg", image)
         print("-------------successful photo capture--------------***")
         rb_mouth.say("Successful photo capture!!!")
