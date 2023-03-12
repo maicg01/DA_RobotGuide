@@ -1,0 +1,583 @@
+2022-12-19 16:41:37,043 - MOT - INFO - ++++++running new Tracker: 1 -  MainThread - 527365 
+2022-12-19 16:41:37,195 - MOT - INFO - ++++++running new Tracker: 2 -  MainThread - 527365 
+2022-12-19 16:41:37,227 - MOT - INFO - ++++++running new Tracker: 3 -  MainThread - 527365 
+2022-12-19 16:41:37,864 - MOT - INFO - ++++++running new Tracker: 4 -  MainThread - 527365 
+2022-12-19 16:41:37,903 - MOT - INFO - ++++++running new Tracker: 5 -  MainThread - 527365 
+2022-12-19 16:41:37,903 - MOT - INFO - ++++++running new Tracker: 6 -  MainThread - 527365 
+2022-12-19 16:41:37,979 - MOT - INFO - ++++++running new Tracker: 7 -  MainThread - 527365 
+2022-12-19 16:41:38,040 - MOT - INFO - remove tracker: 7 -  MainThread - 527365 
+2022-12-19 16:41:38,302 - MOT - INFO - ++++++running new Tracker: 8 -  MainThread - 527365 
+2022-12-19 16:41:38,406 - MOT - INFO - remove tracker: 4 -  MainThread - 527365 
+2022-12-19 16:41:38,469 - MOT - INFO - ++++++running new Tracker: 9 -  MainThread - 527365 
+2022-12-19 16:41:38,469 - MOT - INFO - remove tracker: 5 -  MainThread - 527365 
+2022-12-19 16:41:38,506 - MOT - INFO - remove tracker: 9 -  MainThread - 527365 
+2022-12-19 16:41:38,526 - MOT - INFO - ++++++running new Tracker: 10 -  MainThread - 527365 
+2022-12-19 16:41:38,526 - MOT - INFO - ++++++running new Tracker: 11 -  MainThread - 527365 
+2022-12-19 16:41:38,561 - MOT - INFO - ++++++running new Tracker: 12 -  MainThread - 527365 
+2022-12-19 16:41:38,562 - MOT - INFO - remove tracker: 6 -  MainThread - 527365 
+2022-12-19 16:41:38,562 - MOT - INFO - remove tracker: 3 -  MainThread - 527365 
+2022-12-19 16:41:38,674 - MOT - INFO - remove tracker: 8 -  MainThread - 527365 
+2022-12-19 16:41:38,825 - MOT - INFO - remove tracker: 10 -  MainThread - 527365 
+2022-12-19 16:41:39,018 - MOT - INFO - ++++++running new Tracker: 13 -  MainThread - 527365 
+2022-12-19 16:41:39,074 - MOT - INFO - ++++++running new Tracker: 14 -  MainThread - 527365 
+2022-12-19 16:41:39,378 - MOT - INFO - ++++++running new Tracker: 15 -  MainThread - 527365 
+2022-12-19 16:41:39,531 - MOT - INFO - remove tracker: 14 -  MainThread - 527365 
+2022-12-19 16:41:39,630 - MOT - INFO - remove tracker: 11 -  MainThread - 527365 
+2022-12-19 16:41:39,782 - MOT - INFO - ++++++running new Tracker: 16 -  MainThread - 527365 
+2022-12-19 16:41:39,936 - MOT - INFO - remove tracker: 16 -  MainThread - 527365 
+2022-12-19 16:41:40,035 - MOT - INFO - ++++++running new Tracker: 17 -  MainThread - 527365 
+2022-12-19 16:41:40,110 - MOT - INFO - remove tracker: 15 -  MainThread - 527365 
+2022-12-19 16:41:40,188 - MOT - INFO - ++++++running new Tracker: 18 -  MainThread - 527365 
+2022-12-19 16:41:40,188 - MOT - INFO - ++++++running new Tracker: 19 -  MainThread - 527365 
+2022-12-19 16:41:40,265 - MOT - INFO - remove tracker: 18 -  MainThread - 527365 
+2022-12-19 16:41:40,344 - MOT - INFO - remove tracker: 17 -  MainThread - 527365 
+2022-12-19 16:41:40,421 - MOT - INFO - ++++++running new Tracker: 20 -  MainThread - 527365 
+2022-12-19 16:41:40,574 - MOT - INFO - ++++++running new Tracker: 21 -  MainThread - 527365 
+2022-12-19 16:41:40,651 - MOT - INFO - remove tracker: 21 -  MainThread - 527365 
+2022-12-19 16:41:40,842 - MOT - INFO - remove tracker: 13 -  MainThread - 527365 
+2022-12-19 16:41:41,166 - MOT - INFO - ++++++running new Tracker: 22 -  MainThread - 527365 
+2022-12-19 16:41:41,166 - MOT - INFO - ++++++running new Tracker: 23 -  MainThread - 527365 
+2022-12-19 16:41:41,205 - MOT - INFO - remove tracker: 1 -  MainThread - 527365 
+2022-12-19 16:41:41,261 - MOT - INFO - remove tracker: 23 -  MainThread - 527365 
+2022-12-19 16:41:41,261 - MOT - INFO - remove tracker: 19 -  MainThread - 527365 
+2022-12-19 16:41:41,318 - MOT - INFO - ++++++running new Tracker: 24 -  MainThread - 527365 
+2022-12-19 16:41:41,318 - MOT - INFO - remove tracker: 22 -  MainThread - 527365 
+2022-12-19 16:41:41,374 - MOT - INFO - ++++++running new Tracker: 25 -  MainThread - 527365 
+2022-12-19 16:41:41,375 - MOT - INFO - ++++++running new Tracker: 26 -  MainThread - 527365 
+2022-12-19 16:41:41,587 - MOT - INFO - ++++++running new Tracker: 27 -  MainThread - 527365 
+2022-12-19 16:41:41,801 - MOT - INFO - ++++++running new Tracker: 28 -  MainThread - 527365 
+2022-12-19 16:41:41,801 - MOT - INFO - ++++++running new Tracker: 29 -  MainThread - 527365 
+2022-12-19 16:41:41,877 - MOT - INFO - ++++++running new Tracker: 30 -  MainThread - 527365 
+2022-12-19 16:41:41,877 - MOT - INFO - ++++++running new Tracker: 31 -  MainThread - 527365 
+2022-12-19 16:41:41,957 - MOT - INFO - remove tracker: 30 -  MainThread - 527365 
+2022-12-19 16:41:41,957 - MOT - INFO - remove tracker: 24 -  MainThread - 527365 
+2022-12-19 16:41:42,148 - MOT - INFO - remove tracker: 25 -  MainThread - 527365 
+2022-12-19 16:41:42,225 - MOT - INFO - remove tracker: 27 -  MainThread - 527365 
+2022-12-19 16:41:42,225 - MOT - INFO - remove tracker: 26 -  MainThread - 527365 
+2022-12-19 16:41:42,243 - MOT - INFO - ++++++running new Tracker: 32 -  MainThread - 527365 
+2022-12-19 16:41:42,278 - MOT - INFO - ++++++running new Tracker: 33 -  MainThread - 527365 
+2022-12-19 16:41:42,278 - MOT - INFO - remove tracker: 32 -  MainThread - 527365 
+2022-12-19 16:41:42,286 - MOT - INFO - remove tracker: 29 -  MainThread - 527365 
+2022-12-19 16:41:42,286 - MOT - INFO - remove tracker: 20 -  MainThread - 527365 
+2022-12-19 16:41:42,343 - MOT - INFO - remove tracker: 31 -  MainThread - 527365 
+2022-12-19 16:41:42,403 - MOT - INFO - ++++++running new Tracker: 34 -  MainThread - 527365 
+2022-12-19 16:41:42,403 - MOT - INFO - ++++++running new Tracker: 35 -  MainThread - 527365 
+2022-12-19 16:41:42,442 - MOT - INFO - ++++++running new Tracker: 36 -  MainThread - 527365 
+2022-12-19 16:41:42,480 - MOT - INFO - remove tracker: 36 -  MainThread - 527365 
+2022-12-19 16:41:42,480 - MOT - INFO - remove tracker: 34 -  MainThread - 527365 
+2022-12-19 16:41:42,481 - MOT - INFO - remove tracker: 2 -  MainThread - 527365 
+2022-12-19 16:41:42,520 - MOT - INFO - ++++++running new Tracker: 37 -  MainThread - 527365 
+2022-12-19 16:41:42,520 - MOT - INFO - ++++++running new Tracker: 38 -  MainThread - 527365 
+2022-12-19 16:41:42,558 - MOT - INFO - remove tracker: 33 -  MainThread - 527365 
+2022-12-19 16:41:42,576 - MOT - INFO - ++++++running new Tracker: 39 -  MainThread - 527365 
+2022-12-19 16:41:42,577 - MOT - INFO - remove tracker: 35 -  MainThread - 527365 
+2022-12-19 16:41:42,613 - MOT - INFO - remove tracker: 37 -  MainThread - 527365 
+2022-12-19 16:41:42,629 - MOT - INFO - ++++++running new Tracker: 40 -  MainThread - 527365 
+2022-12-19 16:41:42,630 - MOT - INFO - ++++++running new Tracker: 41 -  MainThread - 527365 
+2022-12-19 16:41:42,630 - MOT - INFO - ++++++running new Tracker: 42 -  MainThread - 527365 
+2022-12-19 16:41:42,630 - MOT - INFO - remove tracker: 38 -  MainThread - 527365 
+2022-12-19 16:41:42,668 - MOT - INFO - ++++++running new Tracker: 43 -  MainThread - 527365 
+2022-12-19 16:41:42,723 - MOT - INFO - remove tracker: 39 -  MainThread - 527365 
+2022-12-19 16:41:42,781 - MOT - INFO - ++++++running new Tracker: 44 -  MainThread - 527365 
+2022-12-19 16:41:42,781 - MOT - INFO - remove tracker: 12 -  MainThread - 527365 
+2022-12-19 16:41:42,818 - MOT - INFO - remove tracker: 44 -  MainThread - 527365 
+2022-12-19 16:41:42,928 - MOT - INFO - ++++++running new Tracker: 45 -  MainThread - 527365 
+2022-12-19 16:41:42,967 - MOT - INFO - ++++++running new Tracker: 46 -  MainThread - 527365 
+2022-12-19 16:41:43,040 - MOT - INFO - remove tracker: 41 -  MainThread - 527365 
+2022-12-19 16:41:43,040 - MOT - INFO - remove tracker: 40 -  MainThread - 527365 
+2022-12-19 16:41:43,115 - MOT - INFO - ++++++running new Tracker: 47 -  MainThread - 527365 
+2022-12-19 16:41:43,211 - MOT - INFO - remove tracker: 47 -  MainThread - 527365 
+2022-12-19 16:41:43,386 - MOT - INFO - ++++++running new Tracker: 48 -  MainThread - 527365 
+2022-12-19 16:41:43,464 - MOT - INFO - remove tracker: 45 -  MainThread - 527365 
+2022-12-19 16:41:43,542 - MOT - INFO - ++++++running new Tracker: 49 -  MainThread - 527365 
+2022-12-19 16:41:43,676 - MOT - INFO - ++++++running new Tracker: 50 -  MainThread - 527365 
+2022-12-19 16:41:44,104 - MOT - INFO - ++++++running new Tracker: 51 -  MainThread - 527365 
+2022-12-19 16:41:44,104 - MOT - INFO - ++++++running new Tracker: 52 -  MainThread - 527365 
+2022-12-19 16:41:44,182 - MOT - INFO - ++++++running new Tracker: 53 -  MainThread - 527365 
+2022-12-19 16:41:44,182 - MOT - INFO - ++++++running new Tracker: 54 -  MainThread - 527365 
+2022-12-19 16:41:44,182 - MOT - INFO - remove tracker: 51 -  MainThread - 527365 
+2022-12-19 16:41:44,219 - MOT - INFO - ++++++running new Tracker: 55 -  MainThread - 527365 
+2022-12-19 16:41:44,219 - MOT - INFO - remove tracker: 54 -  MainThread - 527365 
+2022-12-19 16:41:44,220 - MOT - INFO - remove tracker: 46 -  MainThread - 527365 
+2022-12-19 16:41:44,277 - MOT - INFO - ++++++running new Tracker: 56 -  MainThread - 527365 
+2022-12-19 16:41:44,277 - MOT - INFO - ++++++running new Tracker: 57 -  MainThread - 527365 
+2022-12-19 16:41:44,334 - MOT - INFO - ++++++running new Tracker: 58 -  MainThread - 527365 
+2022-12-19 16:41:44,335 - MOT - INFO - remove tracker: 50 -  MainThread - 527365 
+2022-12-19 16:41:44,335 - MOT - INFO - remove tracker: 49 -  MainThread - 527365 
+2022-12-19 16:41:44,335 - MOT - INFO - remove tracker: 48 -  MainThread - 527365 
+2022-12-19 16:41:44,392 - MOT - INFO - ++++++running new Tracker: 59 -  MainThread - 527365 
+2022-12-19 16:41:44,392 - MOT - INFO - remove tracker: 58 -  MainThread - 527365 
+2022-12-19 16:41:44,469 - MOT - INFO - ++++++running new Tracker: 60 -  MainThread - 527365 
+2022-12-19 16:41:44,470 - MOT - INFO - ++++++running new Tracker: 61 -  MainThread - 527365 
+2022-12-19 16:41:44,470 - MOT - INFO - remove tracker: 52 -  MainThread - 527365 
+2022-12-19 16:41:44,470 - MOT - INFO - remove tracker: 43 -  MainThread - 527365 
+2022-12-19 16:41:44,526 - MOT - INFO - remove tracker: 61 -  MainThread - 527365 
+2022-12-19 16:41:44,526 - MOT - INFO - remove tracker: 56 -  MainThread - 527365 
+2022-12-19 16:41:44,526 - MOT - INFO - remove tracker: 55 -  MainThread - 527365 
+2022-12-19 16:41:44,584 - MOT - INFO - ++++++running new Tracker: 62 -  MainThread - 527365 
+2022-12-19 16:41:44,584 - MOT - INFO - remove tracker: 59 -  MainThread - 527365 
+2022-12-19 16:41:44,620 - MOT - INFO - ++++++running new Tracker: 63 -  MainThread - 527365 
+2022-12-19 16:41:44,620 - MOT - INFO - ++++++running new Tracker: 64 -  MainThread - 527365 
+2022-12-19 16:41:44,658 - MOT - INFO - remove tracker: 64 -  MainThread - 527365 
+2022-12-19 16:41:44,735 - MOT - INFO - ++++++running new Tracker: 65 -  MainThread - 527365 
+2022-12-19 16:41:44,810 - MOT - INFO - ++++++running new Tracker: 66 -  MainThread - 527365 
+2022-12-19 16:41:45,010 - MOT - INFO - ++++++running new Tracker: 67 -  MainThread - 527365 
+2022-12-19 16:41:45,109 - MOT - INFO - ++++++running new Tracker: 68 -  MainThread - 527365 
+2022-12-19 16:41:45,109 - MOT - INFO - remove tracker: 67 -  MainThread - 527365 
+2022-12-19 16:41:45,705 - MOT - INFO - ++++++running new Tracker: 69 -  MainThread - 527365 
+2022-12-19 16:41:45,705 - MOT - INFO - ++++++running new Tracker: 70 -  MainThread - 527365 
+2022-12-19 16:41:45,826 - MOT - INFO - remove tracker: 69 -  MainThread - 527365 
+2022-12-19 16:41:45,826 - MOT - INFO - remove tracker: 62 -  MainThread - 527365 
+2022-12-19 16:41:45,826 - MOT - INFO - remove tracker: 53 -  MainThread - 527365 
+2022-12-19 16:41:45,926 - MOT - INFO - ++++++running new Tracker: 71 -  MainThread - 527365 
+2022-12-19 16:41:46,006 - MOT - INFO - remove tracker: 71 -  MainThread - 527365 
+2022-12-19 16:41:46,106 - MOT - INFO - ++++++running new Tracker: 72 -  MainThread - 527365 
+2022-12-19 16:41:46,185 - MOT - INFO - remove tracker: 72 -  MainThread - 527365 
+2022-12-19 16:41:46,264 - MOT - INFO - remove tracker: 63 -  MainThread - 527365 
+2022-12-19 16:41:46,377 - MOT - INFO - ++++++running new Tracker: 73 -  MainThread - 527365 
+2022-12-19 16:41:46,377 - MOT - INFO - remove tracker: 70 -  MainThread - 527365 
+2022-12-19 16:41:46,522 - MOT - INFO - remove tracker: 60 -  MainThread - 527365 
+2022-12-19 16:41:46,542 - MOT - INFO - remove tracker: 68 -  MainThread - 527365 
+2022-12-19 16:41:46,676 - MOT - INFO - ++++++running new Tracker: 74 -  MainThread - 527365 
+2022-12-19 16:41:46,736 - MOT - INFO - ++++++running new Tracker: 75 -  MainThread - 527365 
+2022-12-19 16:41:47,028 - MOT - INFO - ++++++running new Tracker: 76 -  MainThread - 527365 
+2022-12-19 16:41:47,206 - MOT - INFO - remove tracker: 66 -  MainThread - 527365 
+2022-12-19 16:41:47,313 - MOT - INFO - remove tracker: 65 -  MainThread - 527365 
+2022-12-19 16:41:47,392 - MOT - INFO - remove tracker: 75 -  MainThread - 527365 
+2022-12-19 16:41:47,449 - MOT - INFO - ++++++running new Tracker: 77 -  MainThread - 527365 
+2022-12-19 16:41:47,643 - MOT - INFO - ++++++running new Tracker: 78 -  MainThread - 527365 
+2022-12-19 16:41:47,643 - MOT - INFO - remove tracker: 77 -  MainThread - 527365 
+2022-12-19 16:41:47,700 - MOT - INFO - ++++++running new Tracker: 79 -  MainThread - 527365 
+2022-12-19 16:41:47,701 - MOT - INFO - remove tracker: 76 -  MainThread - 527365 
+2022-12-19 16:41:47,737 - MOT - INFO - ++++++running new Tracker: 80 -  MainThread - 527365 
+2022-12-19 16:41:47,795 - MOT - INFO - remove tracker: 80 -  MainThread - 527365 
+2022-12-19 16:41:47,832 - MOT - INFO - ++++++running new Tracker: 81 -  MainThread - 527365 
+2022-12-19 16:41:48,181 - MOT - INFO - remove tracker: 81 -  MainThread - 527365 
+2022-12-19 16:41:48,182 - MOT - INFO - remove tracker: 78 -  MainThread - 527365 
+2022-12-19 16:41:48,241 - MOT - INFO - ++++++running new Tracker: 82 -  MainThread - 527365 
+2022-12-19 16:41:48,318 - MOT - INFO - remove tracker: 82 -  MainThread - 527365 
+2022-12-19 16:41:48,510 - MOT - INFO - ++++++running new Tracker: 83 -  MainThread - 527365 
+2022-12-19 16:41:48,567 - MOT - INFO - ++++++running new Tracker: 84 -  MainThread - 527365 
+2022-12-19 16:41:48,567 - MOT - INFO - remove tracker: 83 -  MainThread - 527365 
+2022-12-19 16:41:48,625 - MOT - INFO - ++++++running new Tracker: 85 -  MainThread - 527365 
+2022-12-19 16:41:48,685 - MOT - INFO - remove tracker: 85 -  MainThread - 527365 
+2022-12-19 16:41:48,685 - MOT - INFO - remove tracker: 84 -  MainThread - 527365 
+2022-12-19 16:41:48,743 - MOT - INFO - ++++++running new Tracker: 86 -  MainThread - 527365 
+2022-12-19 16:41:48,743 - MOT - INFO - ++++++running new Tracker: 87 -  MainThread - 527365 
+2022-12-19 16:41:48,744 - MOT - INFO - remove tracker: 57 -  MainThread - 527365 
+2022-12-19 16:41:48,821 - MOT - INFO - ++++++running new Tracker: 88 -  MainThread - 527365 
+2022-12-19 16:41:48,881 - MOT - INFO - ++++++running new Tracker: 89 -  MainThread - 527365 
+2022-12-19 16:41:48,881 - MOT - INFO - ++++++running new Tracker: 90 -  MainThread - 527365 
+2022-12-19 16:41:48,881 - MOT - INFO - remove tracker: 88 -  MainThread - 527365 
+2022-12-19 16:41:49,019 - MOT - INFO - remove tracker: 90 -  MainThread - 527365 
+2022-12-19 16:41:49,020 - MOT - INFO - remove tracker: 86 -  MainThread - 527365 
+2022-12-19 16:41:49,098 - MOT - INFO - ++++++running new Tracker: 91 -  MainThread - 527365 
+2022-12-19 16:41:49,099 - MOT - INFO - remove tracker: 87 -  MainThread - 527365 
+2022-12-19 16:41:49,176 - MOT - INFO - ++++++running new Tracker: 92 -  MainThread - 527365 
+2022-12-19 16:41:49,177 - MOT - INFO - ++++++running new Tracker: 93 -  MainThread - 527365 
+2022-12-19 16:41:49,177 - MOT - INFO - remove tracker: 91 -  MainThread - 527365 
+2022-12-19 16:41:49,335 - MOT - INFO - remove tracker: 28 -  MainThread - 527365 
+2022-12-19 16:41:49,510 - MOT - INFO - remove tracker: 92 -  MainThread - 527365 
+2022-12-19 16:41:49,734 - MOT - INFO - ++++++running new Tracker: 94 -  MainThread - 527365 
+2022-12-19 16:41:49,735 - MOT - INFO - remove tracker: 79 -  MainThread - 527365 
+2022-12-19 16:41:49,811 - MOT - INFO - remove tracker: 94 -  MainThread - 527365 
+2022-12-19 16:41:49,811 - MOT - INFO - remove tracker: 93 -  MainThread - 527365 
+2022-12-19 16:41:50,195 - MOT - INFO - ++++++running new Tracker: 95 -  MainThread - 527365 
+2022-12-19 16:41:50,275 - MOT - INFO - ++++++running new Tracker: 96 -  MainThread - 527365 
+2022-12-19 16:41:50,352 - MOT - INFO - remove tracker: 96 -  MainThread - 527365 
+2022-12-19 16:41:50,429 - MOT - INFO - remove tracker: 73 -  MainThread - 527365 
+2022-12-19 16:41:50,585 - MOT - INFO - ++++++running new Tracker: 97 -  MainThread - 527365 
+2022-12-19 16:41:50,738 - MOT - INFO - ++++++running new Tracker: 98 -  MainThread - 527365 
+2022-12-19 16:41:50,738 - MOT - INFO - remove tracker: 74 -  MainThread - 527365 
+2022-12-19 16:41:50,795 - MOT - INFO - remove tracker: 97 -  MainThread - 527365 
+2022-12-19 16:41:50,851 - MOT - INFO - ++++++running new Tracker: 99 -  MainThread - 527365 
+2022-12-19 16:41:50,909 - MOT - INFO - ++++++running new Tracker: 100 -  MainThread - 527365 
+2022-12-19 16:41:50,909 - MOT - INFO - remove tracker: 99 -  MainThread - 527365 
+2022-12-19 16:41:50,909 - MOT - INFO - remove tracker: 98 -  MainThread - 527365 
+2022-12-19 16:41:50,966 - MOT - INFO - ++++++running new Tracker: 101 -  MainThread - 527365 
+2022-12-19 16:41:50,966 - MOT - INFO - ++++++running new Tracker: 102 -  MainThread - 527365 
+2022-12-19 16:41:50,967 - MOT - INFO - remove tracker: 100 -  MainThread - 527365 
+2022-12-19 16:41:51,025 - MOT - INFO - ++++++running new Tracker: 103 -  MainThread - 527365 
+2022-12-19 16:41:51,138 - MOT - INFO - remove tracker: 103 -  MainThread - 527365 
+2022-12-19 16:41:51,138 - MOT - INFO - remove tracker: 102 -  MainThread - 527365 
+2022-12-19 16:41:51,197 - MOT - INFO - ++++++running new Tracker: 104 -  MainThread - 527365 
+2022-12-19 16:41:51,315 - MOT - INFO - ++++++running new Tracker: 105 -  MainThread - 527365 
+2022-12-19 16:41:51,315 - MOT - INFO - remove tracker: 101 -  MainThread - 527365 
+2022-12-19 16:41:51,373 - MOT - INFO - ++++++running new Tracker: 106 -  MainThread - 527365 
+2022-12-19 16:41:51,373 - MOT - INFO - ++++++running new Tracker: 107 -  MainThread - 527365 
+2022-12-19 16:41:51,373 - MOT - INFO - remove tracker: 105 -  MainThread - 527365 
+2022-12-19 16:41:51,432 - MOT - INFO - ++++++running new Tracker: 108 -  MainThread - 527365 
+2022-12-19 16:41:51,432 - MOT - INFO - ++++++running new Tracker: 109 -  MainThread - 527365 
+2022-12-19 16:41:51,432 - MOT - INFO - remove tracker: 106 -  MainThread - 527365 
+2022-12-19 16:41:51,491 - MOT - INFO - remove tracker: 108 -  MainThread - 527365 
+2022-12-19 16:41:51,491 - MOT - INFO - remove tracker: 104 -  MainThread - 527365 
+2022-12-19 16:41:51,548 - MOT - INFO - ++++++running new Tracker: 110 -  MainThread - 527365 
+2022-12-19 16:41:51,548 - MOT - INFO - ++++++running new Tracker: 111 -  MainThread - 527365 
+2022-12-19 16:41:51,626 - MOT - INFO - remove tracker: 110 -  MainThread - 527365 
+2022-12-19 16:41:51,705 - MOT - INFO - ++++++running new Tracker: 112 -  MainThread - 527365 
+2022-12-19 16:41:51,783 - MOT - INFO - ++++++running new Tracker: 113 -  MainThread - 527365 
+2022-12-19 16:41:51,940 - MOT - INFO - ++++++running new Tracker: 114 -  MainThread - 527365 
+2022-12-19 16:41:51,940 - MOT - INFO - remove tracker: 113 -  MainThread - 527365 
+2022-12-19 16:41:52,018 - MOT - INFO - remove tracker: 109 -  MainThread - 527365 
+2022-12-19 16:41:52,058 - MOT - INFO - remove tracker: 111 -  MainThread - 527365 
+2022-12-19 16:41:52,116 - MOT - INFO - ++++++running new Tracker: 115 -  MainThread - 527365 
+2022-12-19 16:41:52,117 - MOT - INFO - remove tracker: 114 -  MainThread - 527365 
+2022-12-19 16:41:52,193 - MOT - INFO - ++++++running new Tracker: 116 -  MainThread - 527365 
+2022-12-19 16:41:52,194 - MOT - INFO - remove tracker: 112 -  MainThread - 527365 
+2022-12-19 16:41:52,234 - MOT - INFO - ++++++running new Tracker: 117 -  MainThread - 527365 
+2022-12-19 16:41:52,234 - MOT - INFO - ++++++running new Tracker: 118 -  MainThread - 527365 
+2022-12-19 16:41:52,313 - MOT - INFO - remove tracker: 118 -  MainThread - 527365 
+2022-12-19 16:41:52,353 - MOT - INFO - ++++++running new Tracker: 119 -  MainThread - 527365 
+2022-12-19 16:41:52,354 - MOT - INFO - ++++++running new Tracker: 120 -  MainThread - 527365 
+2022-12-19 16:41:52,393 - MOT - INFO - remove tracker: 120 -  MainThread - 527365 
+2022-12-19 16:41:52,450 - MOT - INFO - ++++++running new Tracker: 121 -  MainThread - 527365 
+2022-12-19 16:41:52,450 - MOT - INFO - ++++++running new Tracker: 122 -  MainThread - 527365 
+2022-12-19 16:41:52,450 - MOT - INFO - remove tracker: 119 -  MainThread - 527365 
+2022-12-19 16:41:52,451 - MOT - INFO - remove tracker: 107 -  MainThread - 527365 
+2022-12-19 16:41:52,608 - MOT - INFO - remove tracker: 115 -  MainThread - 527365 
+2022-12-19 16:41:52,664 - MOT - INFO - ++++++running new Tracker: 123 -  MainThread - 527365 
+2022-12-19 16:41:52,664 - MOT - INFO - ++++++running new Tracker: 124 -  MainThread - 527365 
+2022-12-19 16:41:52,842 - MOT - INFO - remove tracker: 122 -  MainThread - 527365 
+2022-12-19 16:41:52,942 - MOT - INFO - ++++++running new Tracker: 125 -  MainThread - 527365 
+2022-12-19 16:41:53,395 - MOT - INFO - ++++++running new Tracker: 126 -  MainThread - 527365 
+2022-12-19 16:41:53,396 - MOT - INFO - remove tracker: 117 -  MainThread - 527365 
+2022-12-19 16:41:53,612 - MOT - INFO - remove tracker: 125 -  MainThread - 527365 
+2022-12-19 16:41:53,712 - MOT - INFO - ++++++running new Tracker: 127 -  MainThread - 527365 
+2022-12-19 16:41:53,831 - MOT - INFO - remove tracker: 127 -  MainThread - 527365 
+2022-12-19 16:41:54,049 - MOT - INFO - ++++++running new Tracker: 128 -  MainThread - 527365 
+2022-12-19 16:41:54,341 - MOT - INFO - remove tracker: 121 -  MainThread - 527365 
+2022-12-19 16:41:54,540 - MOT - INFO - ++++++running new Tracker: 129 -  MainThread - 527365 
+2022-12-19 16:41:54,756 - MOT - INFO - ++++++running new Tracker: 130 -  MainThread - 527365 
+2022-12-19 16:41:54,855 - MOT - INFO - remove tracker: 130 -  MainThread - 527365 
+2022-12-19 16:41:54,934 - MOT - INFO - ++++++running new Tracker: 131 -  MainThread - 527365 
+2022-12-19 16:41:55,111 - MOT - INFO - remove tracker: 131 -  MainThread - 527365 
+2022-12-19 16:41:55,192 - MOT - INFO - ++++++running new Tracker: 132 -  MainThread - 527365 
+2022-12-19 16:41:55,626 - MOT - INFO - remove tracker: 116 -  MainThread - 527365 
+2022-12-19 16:41:55,981 - MOT - INFO - remove tracker: 132 -  MainThread - 527365 
+2022-12-19 16:41:56,041 - MOT - INFO - ++++++running new Tracker: 133 -  MainThread - 527365 
+2022-12-19 16:41:56,099 - MOT - INFO - ++++++running new Tracker: 134 -  MainThread - 527365 
+2022-12-19 16:41:56,099 - MOT - INFO - remove tracker: 133 -  MainThread - 527365 
+2022-12-19 16:41:56,100 - MOT - INFO - remove tracker: 129 -  MainThread - 527365 
+2022-12-19 16:41:56,259 - MOT - INFO - ++++++running new Tracker: 135 -  MainThread - 527365 
+2022-12-19 16:41:56,471 - MOT - INFO - remove tracker: 135 -  MainThread - 527365 
+2022-12-19 16:41:56,472 - MOT - INFO - remove tracker: 89 -  MainThread - 527365 
+2022-12-19 16:41:56,546 - MOT - INFO - ++++++running new Tracker: 136 -  MainThread - 527365 
+2022-12-19 16:41:56,563 - MOT - INFO - remove tracker: 136 -  MainThread - 527365 
+2022-12-19 16:41:56,563 - MOT - INFO - remove tracker: 128 -  MainThread - 527365 
+2022-12-19 16:41:56,658 - MOT - INFO - ++++++running new Tracker: 137 -  MainThread - 527365 
+2022-12-19 16:41:56,658 - MOT - INFO - remove tracker: 134 -  MainThread - 527365 
+2022-12-19 16:41:56,794 - MOT - INFO - ++++++running new Tracker: 138 -  MainThread - 527365 
+2022-12-19 16:41:56,794 - MOT - INFO - ++++++running new Tracker: 139 -  MainThread - 527365 
+2022-12-19 16:41:56,954 - MOT - INFO - remove tracker: 126 -  MainThread - 527365 
+2022-12-19 16:41:56,991 - MOT - INFO - remove tracker: 139 -  MainThread - 527365 
+2022-12-19 16:41:56,991 - MOT - INFO - remove tracker: 138 -  MainThread - 527365 
+2022-12-19 16:41:56,991 - MOT - INFO - remove tracker: 137 -  MainThread - 527365 
+2022-12-19 16:41:57,030 - MOT - INFO - ++++++running new Tracker: 140 -  MainThread - 527365 
+2022-12-19 16:41:57,049 - MOT - INFO - remove tracker: 140 -  MainThread - 527365 
+2022-12-19 16:41:57,049 - MOT - INFO - remove tracker: 124 -  MainThread - 527365 
+2022-12-19 16:41:57,084 - MOT - INFO - ++++++running new Tracker: 141 -  MainThread - 527365 
+2022-12-19 16:41:57,085 - MOT - INFO - remove tracker: 95 -  MainThread - 527365 
+2022-12-19 16:41:57,102 - MOT - INFO - remove tracker: 141 -  MainThread - 527365 
+2022-12-19 16:41:57,138 - MOT - INFO - ++++++running new Tracker: 142 -  MainThread - 527365 
+2022-12-19 16:41:57,138 - MOT - INFO - ++++++running new Tracker: 143 -  MainThread - 527365 
+2022-12-19 16:41:57,154 - MOT - INFO - ++++++running new Tracker: 144 -  MainThread - 527365 
+2022-12-19 16:41:57,189 - MOT - INFO - remove tracker: 143 -  MainThread - 527365 
+2022-12-19 16:41:57,189 - MOT - INFO - remove tracker: 142 -  MainThread - 527365 
+2022-12-19 16:41:57,207 - MOT - INFO - ++++++running new Tracker: 145 -  MainThread - 527365 
+2022-12-19 16:41:57,224 - MOT - INFO - ++++++running new Tracker: 146 -  MainThread - 527365 
+2022-12-19 16:41:57,242 - MOT - INFO - ++++++running new Tracker: 147 -  MainThread - 527365 
+2022-12-19 16:41:57,279 - MOT - INFO - ++++++running new Tracker: 148 -  MainThread - 527365 
+2022-12-19 16:41:57,279 - MOT - INFO - remove tracker: 146 -  MainThread - 527365 
+2022-12-19 16:41:57,344 - MOT - INFO - ++++++running new Tracker: 149 -  MainThread - 527365 
+2022-12-19 16:41:57,344 - MOT - INFO - ++++++running new Tracker: 150 -  MainThread - 527365 
+2022-12-19 16:41:57,402 - MOT - INFO - ++++++running new Tracker: 151 -  MainThread - 527365 
+2022-12-19 16:41:57,500 - MOT - INFO - remove tracker: 149 -  MainThread - 527365 
+2022-12-19 16:41:57,500 - MOT - INFO - remove tracker: 148 -  MainThread - 527365 
+2022-12-19 16:41:57,500 - MOT - INFO - remove tracker: 147 -  MainThread - 527365 
+2022-12-19 16:41:57,559 - MOT - INFO - ++++++running new Tracker: 152 -  MainThread - 527365 
+2022-12-19 16:41:57,559 - MOT - INFO - ++++++running new Tracker: 153 -  MainThread - 527365 
+2022-12-19 16:41:57,624 - MOT - INFO - ++++++running new Tracker: 154 -  MainThread - 527365 
+2022-12-19 16:41:57,705 - MOT - INFO - remove tracker: 154 -  MainThread - 527365 
+2022-12-19 16:41:57,705 - MOT - INFO - remove tracker: 151 -  MainThread - 527365 
+2022-12-19 16:41:57,705 - MOT - INFO - remove tracker: 150 -  MainThread - 527365 
+2022-12-19 16:41:57,765 - MOT - INFO - ++++++running new Tracker: 155 -  MainThread - 527365 
+2022-12-19 16:41:57,959 - MOT - INFO - ++++++running new Tracker: 156 -  MainThread - 527365 
+2022-12-19 16:41:57,959 - MOT - INFO - remove tracker: 155 -  MainThread - 527365 
+2022-12-19 16:41:58,058 - MOT - INFO - ++++++running new Tracker: 157 -  MainThread - 527365 
+2022-12-19 16:41:58,158 - MOT - INFO - remove tracker: 156 -  MainThread - 527365 
+2022-12-19 16:41:58,357 - MOT - INFO - ++++++running new Tracker: 158 -  MainThread - 527365 
+2022-12-19 16:41:58,437 - MOT - INFO - ++++++running new Tracker: 159 -  MainThread - 527365 
+2022-12-19 16:41:58,613 - MOT - INFO - ++++++running new Tracker: 160 -  MainThread - 527365 
+2022-12-19 16:41:58,670 - MOT - INFO - ++++++running new Tracker: 161 -  MainThread - 527365 
+2022-12-19 16:41:58,670 - MOT - INFO - remove tracker: 160 -  MainThread - 527365 
+2022-12-19 16:41:58,670 - MOT - INFO - remove tracker: 158 -  MainThread - 527365 
+2022-12-19 16:41:58,791 - MOT - INFO - ++++++running new Tracker: 162 -  MainThread - 527365 
+2022-12-19 16:41:58,791 - MOT - INFO - ++++++running new Tracker: 163 -  MainThread - 527365 
+2022-12-19 16:41:59,187 - MOT - INFO - remove tracker: 163 -  MainThread - 527365 
+2022-12-19 16:41:59,328 - MOT - INFO - ++++++running new Tracker: 164 -  MainThread - 527365 
+2022-12-19 16:41:59,446 - MOT - INFO - ++++++running new Tracker: 165 -  MainThread - 527365 
+2022-12-19 16:41:59,446 - MOT - INFO - remove tracker: 164 -  MainThread - 527365 
+2022-12-19 16:41:59,780 - MOT - INFO - ++++++running new Tracker: 166 -  MainThread - 527365 
+2022-12-19 16:41:59,780 - MOT - INFO - remove tracker: 165 -  MainThread - 527365 
+2022-12-19 16:41:59,781 - MOT - INFO - remove tracker: 162 -  MainThread - 527365 
+2022-12-19 16:41:59,996 - MOT - INFO - ++++++running new Tracker: 167 -  MainThread - 527365 
+2022-12-19 16:42:00,095 - MOT - INFO - remove tracker: 167 -  MainThread - 527365 
+2022-12-19 16:42:00,353 - MOT - INFO - ++++++running new Tracker: 168 -  MainThread - 527365 
+2022-12-19 16:42:00,471 - MOT - INFO - ++++++running new Tracker: 169 -  MainThread - 527365 
+2022-12-19 16:42:00,471 - MOT - INFO - remove tracker: 166 -  MainThread - 527365 
+2022-12-19 16:42:00,471 - MOT - INFO - remove tracker: 159 -  MainThread - 527365 
+2022-12-19 16:42:00,570 - MOT - INFO - ++++++running new Tracker: 170 -  MainThread - 527365 
+2022-12-19 16:42:01,325 - MOT - INFO - remove tracker: 170 -  MainThread - 527365 
+2022-12-19 16:42:01,446 - MOT - INFO - ++++++running new Tracker: 171 -  MainThread - 527365 
+2022-12-19 16:42:01,745 - MOT - INFO - remove tracker: 171 -  MainThread - 527365 
+2022-12-19 16:42:01,863 - MOT - INFO - remove tracker: 169 -  MainThread - 527365 
+2022-12-19 16:42:02,001 - MOT - INFO - ++++++running new Tracker: 172 -  MainThread - 527365 
+2022-12-19 16:42:02,122 - MOT - INFO - remove tracker: 161 -  MainThread - 527365 
+2022-12-19 16:42:02,319 - MOT - INFO - ++++++running new Tracker: 173 -  MainThread - 527365 
+2022-12-19 16:42:02,319 - MOT - INFO - remove tracker: 172 -  MainThread - 527365 
+2022-12-19 16:42:02,595 - MOT - INFO - ++++++running new Tracker: 174 -  MainThread - 527365 
+2022-12-19 16:42:02,797 - MOT - INFO - remove tracker: 157 -  MainThread - 527365 
+2022-12-19 16:42:02,876 - MOT - INFO - remove tracker: 168 -  MainThread - 527365 
+2022-12-19 16:42:03,539 - MOT - INFO - remove tracker: 174 -  MainThread - 527365 
+2022-12-19 16:42:03,596 - MOT - INFO - remove tracker: 145 -  MainThread - 527365 
+2022-12-19 16:42:03,730 - MOT - INFO - remove tracker: 173 -  MainThread - 527365 
+2022-12-19 16:42:03,844 - MOT - INFO - ++++++running new Tracker: 175 -  MainThread - 527365 
+2022-12-19 16:42:03,920 - MOT - INFO - remove tracker: 175 -  MainThread - 527365 
+2022-12-19 16:42:03,977 - MOT - INFO - ++++++running new Tracker: 176 -  MainThread - 527365 
+2022-12-19 16:42:03,977 - MOT - INFO - remove tracker: 153 -  MainThread - 527365 
+2022-12-19 16:42:04,015 - MOT - INFO - ++++++running new Tracker: 177 -  MainThread - 527365 
+2022-12-19 16:42:04,015 - MOT - INFO - ++++++running new Tracker: 178 -  MainThread - 527365 
+2022-12-19 16:42:04,015 - MOT - INFO - remove tracker: 176 -  MainThread - 527365 
+2022-12-19 16:42:04,053 - MOT - INFO - ++++++running new Tracker: 179 -  MainThread - 527365 
+2022-12-19 16:42:04,053 - MOT - INFO - remove tracker: 177 -  MainThread - 527365 
+2022-12-19 16:42:04,116 - MOT - INFO - ++++++running new Tracker: 180 -  MainThread - 527365 
+2022-12-19 16:42:04,116 - MOT - INFO - ++++++running new Tracker: 181 -  MainThread - 527365 
+2022-12-19 16:42:04,116 - MOT - INFO - remove tracker: 179 -  MainThread - 527365 
+2022-12-19 16:42:04,251 - MOT - INFO - ++++++running new Tracker: 182 -  MainThread - 527365 
+2022-12-19 16:42:04,252 - MOT - INFO - remove tracker: 152 -  MainThread - 527365 
+2022-12-19 16:42:04,330 - MOT - INFO - remove tracker: 180 -  MainThread - 527365 
+2022-12-19 16:42:04,368 - MOT - INFO - ++++++running new Tracker: 183 -  MainThread - 527365 
+2022-12-19 16:42:04,406 - MOT - INFO - ++++++running new Tracker: 184 -  MainThread - 527365 
+2022-12-19 16:42:04,406 - MOT - INFO - remove tracker: 183 -  MainThread - 527365 
+2022-12-19 16:42:04,445 - MOT - INFO - remove tracker: 184 -  MainThread - 527365 
+2022-12-19 16:42:04,560 - MOT - INFO - ++++++running new Tracker: 185 -  MainThread - 527365 
+2022-12-19 16:42:04,804 - MOT - INFO - remove tracker: 181 -  MainThread - 527365 
+2022-12-19 16:42:05,126 - MOT - INFO - ++++++running new Tracker: 186 -  MainThread - 527365 
+2022-12-19 16:42:05,187 - MOT - INFO - remove tracker: 123 -  MainThread - 527365 
+2022-12-19 16:42:05,283 - MOT - INFO - ++++++running new Tracker: 187 -  MainThread - 527365 
+2022-12-19 16:42:05,419 - MOT - INFO - ++++++running new Tracker: 188 -  MainThread - 527365 
+2022-12-19 16:42:05,536 - MOT - INFO - remove tracker: 185 -  MainThread - 527365 
+2022-12-19 16:42:05,555 - MOT - INFO - ++++++running new Tracker: 189 -  MainThread - 527365 
+2022-12-19 16:42:05,555 - MOT - INFO - remove tracker: 187 -  MainThread - 527365 
+2022-12-19 16:42:05,614 - MOT - INFO - ++++++running new Tracker: 190 -  MainThread - 527365 
+2022-12-19 16:42:05,672 - MOT - INFO - remove tracker: 190 -  MainThread - 527365 
+2022-12-19 16:42:05,749 - MOT - INFO - ++++++running new Tracker: 191 -  MainThread - 527365 
+2022-12-19 16:42:05,749 - MOT - INFO - remove tracker: 182 -  MainThread - 527365 
+2022-12-19 16:42:05,808 - MOT - INFO - ++++++running new Tracker: 192 -  MainThread - 527365 
+2022-12-19 16:42:05,808 - MOT - INFO - ++++++running new Tracker: 193 -  MainThread - 527365 
+2022-12-19 16:42:05,808 - MOT - INFO - remove tracker: 191 -  MainThread - 527365 
+2022-12-19 16:42:06,141 - MOT - INFO - ++++++running new Tracker: 194 -  MainThread - 527365 
+2022-12-19 16:42:06,359 - MOT - INFO - ++++++running new Tracker: 195 -  MainThread - 527365 
+2022-12-19 16:42:06,477 - MOT - INFO - remove tracker: 188 -  MainThread - 527365 
+2022-12-19 16:42:06,557 - MOT - INFO - remove tracker: 186 -  MainThread - 527365 
+2022-12-19 16:42:06,636 - MOT - INFO - ++++++running new Tracker: 196 -  MainThread - 527365 
+2022-12-19 16:42:06,756 - MOT - INFO - remove tracker: 194 -  MainThread - 527365 
+2022-12-19 16:42:06,813 - MOT - INFO - ++++++running new Tracker: 197 -  MainThread - 527365 
+2022-12-19 16:42:07,106 - MOT - INFO - remove tracker: 197 -  MainThread - 527365 
+2022-12-19 16:42:07,280 - MOT - INFO - ++++++running new Tracker: 198 -  MainThread - 527365 
+2022-12-19 16:42:07,358 - MOT - INFO - ++++++running new Tracker: 199 -  MainThread - 527365 
+2022-12-19 16:42:07,437 - MOT - INFO - remove tracker: 195 -  MainThread - 527365 
+2022-12-19 16:42:07,494 - MOT - INFO - remove tracker: 199 -  MainThread - 527365 
+2022-12-19 16:42:07,608 - MOT - INFO - ++++++running new Tracker: 200 -  MainThread - 527365 
+2022-12-19 16:42:07,608 - MOT - INFO - ++++++running new Tracker: 201 -  MainThread - 527365 
+2022-12-19 16:42:07,609 - MOT - INFO - remove tracker: 178 -  MainThread - 527365 
+2022-12-19 16:42:07,667 - MOT - INFO - remove tracker: 200 -  MainThread - 527365 
+2022-12-19 16:42:07,703 - MOT - INFO - ++++++running new Tracker: 202 -  MainThread - 527365 
+2022-12-19 16:42:07,704 - MOT - INFO - remove tracker: 201 -  MainThread - 527365 
+2022-12-19 16:42:07,704 - MOT - INFO - remove tracker: 198 -  MainThread - 527365 
+2022-12-19 16:42:07,704 - MOT - INFO - remove tracker: 192 -  MainThread - 527365 
+2022-12-19 16:42:07,704 - MOT - INFO - remove tracker: 189 -  MainThread - 527365 
+2022-12-19 16:42:07,762 - MOT - INFO - ++++++running new Tracker: 203 -  MainThread - 527365 
+2022-12-19 16:42:07,762 - MOT - INFO - remove tracker: 196 -  MainThread - 527365 
+2022-12-19 16:42:07,780 - MOT - INFO - ++++++running new Tracker: 204 -  MainThread - 527365 
+2022-12-19 16:42:07,780 - MOT - INFO - remove tracker: 203 -  MainThread - 527365 
+2022-12-19 16:42:07,796 - MOT - INFO - ++++++running new Tracker: 205 -  MainThread - 527365 
+2022-12-19 16:42:07,796 - MOT - INFO - remove tracker: 204 -  MainThread - 527365 
+2022-12-19 16:42:07,834 - MOT - INFO - ++++++running new Tracker: 206 -  MainThread - 527365 
+2022-12-19 16:42:07,834 - MOT - INFO - remove tracker: 205 -  MainThread - 527365 
+2022-12-19 16:42:07,834 - MOT - INFO - remove tracker: 202 -  MainThread - 527365 
+2022-12-19 16:42:07,835 - MOT - INFO - remove tracker: 193 -  MainThread - 527365 
+2022-12-19 16:42:07,851 - MOT - INFO - remove tracker: 206 -  MainThread - 527365 
+2022-12-19 16:42:07,852 - MOT - INFO - remove tracker: 144 -  MainThread - 527365 
+2022-12-19 16:42:07,852 - MOT - INFO - remove tracker: 42 -  MainThread - 527365 
+2022-12-19 16:42:08,658 - MOT - INFO - ++++++running new Tracker: 207 -  MainThread - 527365 
+2022-12-19 16:42:08,708 - MOT - INFO - ++++++running new Tracker: 208 -  MainThread - 527365 
+2022-12-19 16:42:08,758 - MOT - INFO - ++++++running new Tracker: 209 -  MainThread - 527365 
+2022-12-19 16:42:08,795 - MOT - INFO - ++++++running new Tracker: 210 -  MainThread - 527365 
+2022-12-19 16:42:08,795 - MOT - INFO - ++++++running new Tracker: 211 -  MainThread - 527365 
+2022-12-19 16:42:08,831 - MOT - INFO - remove tracker: 211 -  MainThread - 527365 
+2022-12-19 16:42:08,848 - MOT - INFO - ++++++running new Tracker: 212 -  MainThread - 527365 
+2022-12-19 16:42:09,239 - MOT - INFO - remove tracker: 209 -  MainThread - 527365 
+2022-12-19 16:42:09,294 - MOT - INFO - ++++++running new Tracker: 213 -  MainThread - 527365 
+2022-12-19 16:42:09,463 - MOT - INFO - ++++++running new Tracker: 214 -  MainThread - 527365 
+2022-12-19 16:42:09,593 - MOT - INFO - remove tracker: 213 -  MainThread - 527365 
+2022-12-19 16:42:09,631 - MOT - INFO - ++++++running new Tracker: 215 -  MainThread - 527365 
+2022-12-19 16:42:09,631 - MOT - INFO - ++++++running new Tracker: 216 -  MainThread - 527365 
+2022-12-19 16:42:09,632 - MOT - INFO - remove tracker: 212 -  MainThread - 527365 
+2022-12-19 16:42:09,632 - MOT - INFO - remove tracker: 208 -  MainThread - 527365 
+2022-12-19 16:42:09,691 - MOT - INFO - ++++++running new Tracker: 217 -  MainThread - 527365 
+2022-12-19 16:42:09,750 - MOT - INFO - ++++++running new Tracker: 218 -  MainThread - 527365 
+2022-12-19 16:42:09,750 - MOT - INFO - remove tracker: 216 -  MainThread - 527365 
+2022-12-19 16:42:09,808 - MOT - INFO - ++++++running new Tracker: 219 -  MainThread - 527365 
+2022-12-19 16:42:09,808 - MOT - INFO - remove tracker: 215 -  MainThread - 527365 
+2022-12-19 16:42:09,904 - MOT - INFO - ++++++running new Tracker: 220 -  MainThread - 527365 
+2022-12-19 16:42:09,904 - MOT - INFO - remove tracker: 219 -  MainThread - 527365 
+2022-12-19 16:42:10,059 - MOT - INFO - ++++++running new Tracker: 221 -  MainThread - 527365 
+2022-12-19 16:42:10,432 - MOT - INFO - remove tracker: 218 -  MainThread - 527365 
+2022-12-19 16:42:10,608 - MOT - INFO - ++++++running new Tracker: 222 -  MainThread - 527365 
+2022-12-19 16:42:10,687 - MOT - INFO - remove tracker: 222 -  MainThread - 527365 
+2022-12-19 16:42:10,687 - MOT - INFO - remove tracker: 217 -  MainThread - 527365 
+2022-12-19 16:42:10,802 - MOT - INFO - ++++++running new Tracker: 223 -  MainThread - 527365 
+2022-12-19 16:42:10,862 - MOT - INFO - ++++++running new Tracker: 224 -  MainThread - 527365 
+2022-12-19 16:42:10,941 - MOT - INFO - remove tracker: 223 -  MainThread - 527365 
+2022-12-19 16:42:10,998 - MOT - INFO - ++++++running new Tracker: 225 -  MainThread - 527365 
+2022-12-19 16:42:10,998 - MOT - INFO - ++++++running new Tracker: 226 -  MainThread - 527365 
+2022-12-19 16:42:10,999 - MOT - INFO - remove tracker: 220 -  MainThread - 527365 
+2022-12-19 16:42:11,214 - MOT - INFO - ++++++running new Tracker: 227 -  MainThread - 527365 
+2022-12-19 16:42:11,215 - MOT - INFO - remove tracker: 225 -  MainThread - 527365 
+2022-12-19 16:42:11,275 - MOT - INFO - ++++++running new Tracker: 228 -  MainThread - 527365 
+2022-12-19 16:42:11,275 - MOT - INFO - ++++++running new Tracker: 229 -  MainThread - 527365 
+2022-12-19 16:42:11,332 - MOT - INFO - remove tracker: 229 -  MainThread - 527365 
+2022-12-19 16:42:11,410 - MOT - INFO - ++++++running new Tracker: 230 -  MainThread - 527365 
+2022-12-19 16:42:11,490 - MOT - INFO - ++++++running new Tracker: 231 -  MainThread - 527365 
+2022-12-19 16:42:11,490 - MOT - INFO - ++++++running new Tracker: 232 -  MainThread - 527365 
+2022-12-19 16:42:11,570 - MOT - INFO - remove tracker: 228 -  MainThread - 527365 
+2022-12-19 16:42:11,570 - MOT - INFO - remove tracker: 226 -  MainThread - 527365 
+2022-12-19 16:42:11,626 - MOT - INFO - ++++++running new Tracker: 233 -  MainThread - 527365 
+2022-12-19 16:42:11,627 - MOT - INFO - remove tracker: 227 -  MainThread - 527365 
+2022-12-19 16:42:11,801 - MOT - INFO - remove tracker: 232 -  MainThread - 527365 
+2022-12-19 16:42:12,208 - MOT - INFO - remove tracker: 230 -  MainThread - 527365 
+2022-12-19 16:42:12,303 - MOT - INFO - remove tracker: 221 -  MainThread - 527365 
+2022-12-19 16:42:13,235 - MOT - INFO - ++++++running new Tracker: 234 -  MainThread - 527365 
+2022-12-19 16:42:13,473 - MOT - INFO - ++++++running new Tracker: 235 -  MainThread - 527365 
+2022-12-19 16:42:13,550 - MOT - INFO - remove tracker: 235 -  MainThread - 527365 
+2022-12-19 16:42:13,746 - MOT - INFO - ++++++running new Tracker: 236 -  MainThread - 527365 
+2022-12-19 16:42:13,823 - MOT - INFO - ++++++running new Tracker: 237 -  MainThread - 527365 
+2022-12-19 16:42:13,883 - MOT - INFO - remove tracker: 236 -  MainThread - 527365 
+2022-12-19 16:42:13,961 - MOT - INFO - ++++++running new Tracker: 238 -  MainThread - 527365 
+2022-12-19 16:42:13,961 - MOT - INFO - remove tracker: 237 -  MainThread - 527365 
+2022-12-19 16:42:14,058 - MOT - INFO - remove tracker: 234 -  MainThread - 527365 
+2022-12-19 16:42:14,234 - MOT - INFO - remove tracker: 238 -  MainThread - 527365 
+2022-12-19 16:42:14,291 - MOT - INFO - ++++++running new Tracker: 239 -  MainThread - 527365 
+2022-12-19 16:42:14,369 - MOT - INFO - ++++++running new Tracker: 240 -  MainThread - 527365 
+2022-12-19 16:42:14,370 - MOT - INFO - remove tracker: 239 -  MainThread - 527365 
+2022-12-19 16:42:14,428 - MOT - INFO - remove tracker: 240 -  MainThread - 527365 
+2022-12-19 16:42:14,545 - MOT - INFO - ++++++running new Tracker: 241 -  MainThread - 527365 
+2022-12-19 16:42:14,680 - MOT - INFO - ++++++running new Tracker: 242 -  MainThread - 527365 
+2022-12-19 16:42:15,112 - MOT - INFO - remove tracker: 241 -  MainThread - 527365 
+2022-12-19 16:42:15,418 - MOT - INFO - ++++++running new Tracker: 243 -  MainThread - 527365 
+2022-12-19 16:42:15,495 - MOT - INFO - remove tracker: 243 -  MainThread - 527365 
+2022-12-19 16:42:15,998 - MOT - INFO - ++++++running new Tracker: 244 -  MainThread - 527365 
+2022-12-19 16:42:16,133 - MOT - INFO - remove tracker: 244 -  MainThread - 527365 
+2022-12-19 16:42:16,305 - MOT - INFO - ++++++running new Tracker: 245 -  MainThread - 527365 
+2022-12-19 16:42:16,305 - MOT - INFO - remove tracker: 233 -  MainThread - 527365 
+2022-12-19 16:42:16,343 - MOT - INFO - ++++++running new Tracker: 246 -  MainThread - 527365 
+2022-12-19 16:42:16,343 - MOT - INFO - remove tracker: 224 -  MainThread - 527365 
+2022-12-19 16:42:16,381 - MOT - INFO - ++++++running new Tracker: 247 -  MainThread - 527365 
+2022-12-19 16:42:16,399 - MOT - INFO - remove tracker: 247 -  MainThread - 527365 
+2022-12-19 16:42:16,399 - MOT - INFO - remove tracker: 246 -  MainThread - 527365 
+2022-12-19 16:42:16,437 - MOT - INFO - ++++++running new Tracker: 248 -  MainThread - 527365 
+2022-12-19 16:42:16,686 - MOT - INFO - remove tracker: 248 -  MainThread - 527365 
+2022-12-19 16:42:16,686 - MOT - INFO - remove tracker: 245 -  MainThread - 527365 
+2022-12-19 16:42:16,686 - MOT - INFO - remove tracker: 242 -  MainThread - 527365 
+2022-12-19 16:42:16,687 - MOT - INFO - remove tracker: 231 -  MainThread - 527365 
+2022-12-19 16:42:16,687 - MOT - INFO - remove tracker: 214 -  MainThread - 527365 
+2022-12-19 16:42:16,687 - MOT - INFO - remove tracker: 210 -  MainThread - 527365 
+2022-12-19 16:42:16,688 - MOT - INFO - remove tracker: 207 -  MainThread - 527365 
+2022-12-19 16:42:16,864 - MOT - INFO - ++++++running new Tracker: 249 -  MainThread - 527365 
+2022-12-19 16:42:16,879 - MOT - INFO - remove tracker: 249 -  MainThread - 527365 
+2022-12-19 16:42:16,893 - MOT - INFO - ++++++running new Tracker: 250 -  MainThread - 527365 
+2022-12-19 16:42:17,100 - MOT - INFO - remove tracker: 250 -  MainThread - 527365 
+2022-12-19 16:42:17,157 - MOT - INFO - ++++++running new Tracker: 251 -  MainThread - 527365 
+2022-12-19 16:42:17,425 - MOT - INFO - remove tracker: 251 -  MainThread - 527365 
+2022-12-19 16:42:17,440 - MOT - INFO - ++++++running new Tracker: 252 -  MainThread - 527365 
+2022-12-19 16:42:17,689 - MOT - INFO - ++++++running new Tracker: 253 -  MainThread - 527365 
+2022-12-19 16:42:17,689 - MOT - INFO - ++++++running new Tracker: 254 -  MainThread - 527365 
+2022-12-19 16:42:17,725 - MOT - INFO - remove tracker: 252 -  MainThread - 527365 
+2022-12-19 16:42:20,205 - MOT - INFO - ++++++running new Tracker: 255 -  MainThread - 527365 
+2022-12-19 16:42:20,241 - MOT - INFO - ++++++running new Tracker: 256 -  MainThread - 527365 
+2022-12-19 16:42:20,241 - MOT - INFO - ++++++running new Tracker: 257 -  MainThread - 527365 
+2022-12-19 16:42:20,241 - MOT - INFO - ++++++running new Tracker: 258 -  MainThread - 527365 
+2022-12-19 16:42:20,242 - MOT - INFO - remove tracker: 253 -  MainThread - 527365 
+2022-12-19 16:42:20,258 - MOT - INFO - remove tracker: 254 -  MainThread - 527365 
+2022-12-19 16:42:23,526 - MOT - INFO - remove tracker: 258 -  MainThread - 527365 
+2022-12-19 16:42:23,526 - MOT - INFO - remove tracker: 255 -  MainThread - 527365 
+2022-12-19 16:42:23,584 - MOT - INFO - ++++++running new Tracker: 259 -  MainThread - 527365 
+2022-12-19 16:42:23,584 - MOT - INFO - ++++++running new Tracker: 260 -  MainThread - 527365 
+2022-12-19 16:42:23,584 - MOT - INFO - remove tracker: 256 -  MainThread - 527365 
+2022-12-19 16:42:23,622 - MOT - INFO - remove tracker: 257 -  MainThread - 527365 
+2022-12-19 16:42:23,667 - MOT - INFO - ++++++running new Tracker: 261 -  MainThread - 527365 
+2022-12-19 16:42:23,667 - MOT - INFO - ++++++running new Tracker: 262 -  MainThread - 527365 
+2022-12-19 16:42:23,750 - MOT - INFO - remove tracker: 262 -  MainThread - 527365 
+2022-12-19 16:42:23,768 - MOT - INFO - ++++++running new Tracker: 263 -  MainThread - 527365 
+2022-12-19 16:42:23,944 - MOT - INFO - remove tracker: 261 -  MainThread - 527365 
+2022-12-19 16:42:23,944 - MOT - INFO - remove tracker: 259 -  MainThread - 527365 
+2022-12-19 16:42:23,977 - MOT - INFO - ++++++running new Tracker: 264 -  MainThread - 527365 
+2022-12-19 16:42:23,995 - MOT - INFO - ++++++running new Tracker: 265 -  MainThread - 527365 
+2022-12-19 16:42:24,013 - MOT - INFO - remove tracker: 263 -  MainThread - 527365 
+2022-12-19 16:42:24,031 - MOT - INFO - ++++++running new Tracker: 266 -  MainThread - 527365 
+2022-12-19 16:42:24,338 - MOT - INFO - remove tracker: 265 -  MainThread - 527365 
+2022-12-19 16:42:24,546 - MOT - INFO - ++++++running new Tracker: 267 -  MainThread - 527365 
+2022-12-19 16:42:24,629 - MOT - INFO - remove tracker: 267 -  MainThread - 527365 
+2022-12-19 16:42:24,700 - MOT - INFO - ++++++running new Tracker: 268 -  MainThread - 527365 
+2022-12-19 16:42:24,739 - MOT - INFO - remove tracker: 268 -  MainThread - 527365 
+2022-12-19 16:42:24,941 - MOT - INFO - remove tracker: 266 -  MainThread - 527365 
+2022-12-19 16:42:24,977 - MOT - INFO - ++++++running new Tracker: 269 -  MainThread - 527365 
+2022-12-19 16:42:25,078 - MOT - INFO - remove tracker: 269 -  MainThread - 527365 
+2022-12-19 16:42:25,144 - MOT - INFO - ++++++running new Tracker: 270 -  MainThread - 527365 
+2022-12-19 16:42:25,176 - MOT - INFO - remove tracker: 270 -  MainThread - 527365 
+2022-12-19 16:42:25,212 - MOT - INFO - ++++++running new Tracker: 271 -  MainThread - 527365 
+2022-12-19 16:42:25,227 - MOT - INFO - ++++++running new Tracker: 272 -  MainThread - 527365 
+2022-12-19 16:42:25,243 - MOT - INFO - remove tracker: 272 -  MainThread - 527365 
+2022-12-19 16:42:25,315 - MOT - INFO - ++++++running new Tracker: 273 -  MainThread - 527365 
+2022-12-19 16:42:25,490 - MOT - INFO - remove tracker: 273 -  MainThread - 527365 
+2022-12-19 16:42:25,825 - MOT - INFO - remove tracker: 271 -  MainThread - 527365 
+2022-12-19 16:42:25,994 - MOT - INFO - ++++++running new Tracker: 274 -  MainThread - 527365 
+2022-12-19 16:42:26,330 - MOT - INFO - remove tracker: 274 -  MainThread - 527365 
+2022-12-19 16:42:26,346 - MOT - INFO - ++++++running new Tracker: 275 -  MainThread - 527365 
+2022-12-19 16:42:26,364 - MOT - INFO - remove tracker: 275 -  MainThread - 527365 
+2022-12-19 16:42:26,382 - MOT - INFO - ++++++running new Tracker: 276 -  MainThread - 527365 
+2022-12-19 16:42:26,400 - MOT - INFO - remove tracker: 276 -  MainThread - 527365 
+2022-12-19 16:42:26,759 - MOT - INFO - ++++++running new Tracker: 277 -  MainThread - 527365 
+2022-12-19 16:42:26,777 - MOT - INFO - remove tracker: 277 -  MainThread - 527365 
+2022-12-19 16:42:26,859 - MOT - INFO - ++++++running new Tracker: 278 -  MainThread - 527365 
+2022-12-19 16:42:26,926 - MOT - INFO - ++++++running new Tracker: 279 -  MainThread - 527365 
+2022-12-19 16:42:27,043 - MOT - INFO - remove tracker: 278 -  MainThread - 527365 
+2022-12-19 16:42:27,130 - MOT - INFO - ++++++running new Tracker: 280 -  MainThread - 527365 
+2022-12-19 16:42:27,282 - MOT - INFO - remove tracker: 280 -  MainThread - 527365 
+2022-12-19 16:42:27,390 - MOT - INFO - ++++++running new Tracker: 281 -  MainThread - 527365 
+2022-12-19 16:42:27,877 - MOT - INFO - remove tracker: 281 -  MainThread - 527365 
+2022-12-19 16:42:27,893 - MOT - INFO - ++++++running new Tracker: 282 -  MainThread - 527365 
+2022-12-19 16:42:27,930 - MOT - INFO - remove tracker: 282 -  MainThread - 527365 
+2022-12-19 16:42:27,947 - MOT - INFO - ++++++running new Tracker: 283 -  MainThread - 527365 
+2022-12-19 16:42:27,983 - MOT - INFO - remove tracker: 283 -  MainThread - 527365 
+2022-12-19 16:42:28,051 - MOT - INFO - ++++++running new Tracker: 284 -  MainThread - 527365 
+2022-12-19 16:42:28,326 - MOT - INFO - remove tracker: 284 -  MainThread - 527365 
+2022-12-19 16:42:28,395 - MOT - INFO - ++++++running new Tracker: 285 -  MainThread - 527365 
+2022-12-19 16:42:28,482 - MOT - INFO - remove tracker: 285 -  MainThread - 527365 
+2022-12-19 16:42:28,993 - MOT - INFO - ++++++running new Tracker: 286 -  MainThread - 527365 
+2022-12-19 16:42:29,098 - MOT - INFO - remove tracker: 286 -  MainThread - 527365 
+2022-12-19 16:42:29,549 - MOT - INFO - ++++++running new Tracker: 287 -  MainThread - 527365 
+2022-12-19 16:42:29,565 - MOT - INFO - remove tracker: 287 -  MainThread - 527365 
+2022-12-19 16:42:30,062 - MOT - INFO - ++++++running new Tracker: 288 -  MainThread - 527365 
+2022-12-19 16:42:30,092 - MOT - INFO - remove tracker: 288 -  MainThread - 527365 
+2022-12-19 16:42:30,129 - MOT - INFO - ++++++running new Tracker: 289 -  MainThread - 527365 
+2022-12-19 16:42:30,176 - MOT - INFO - remove tracker: 289 -  MainThread - 527365 
+2022-12-19 16:42:30,327 - MOT - INFO - ++++++running new Tracker: 290 -  MainThread - 527365 
+2022-12-19 16:42:30,967 - MOT - INFO - remove tracker: 279 -  MainThread - 527365 
+2022-12-19 16:42:30,986 - MOT - INFO - ++++++running new Tracker: 291 -  MainThread - 527365 
+2022-12-19 16:42:31,284 - MOT - INFO - remove tracker: 290 -  MainThread - 527365 
+2022-12-19 16:42:31,317 - MOT - INFO - remove tracker: 264 -  MainThread - 527365 
+2022-12-19 16:42:31,318 - MOT - INFO - remove tracker: 260 -  MainThread - 527365 
+2022-12-19 16:42:31,333 - MOT - INFO - remove tracker: 291 -  MainThread - 527365 
+2022-12-19 16:42:32,004 - MOT - INFO - ++++++running new Tracker: 292 -  MainThread - 527365 

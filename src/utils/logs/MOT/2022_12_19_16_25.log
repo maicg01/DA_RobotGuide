@@ -1,0 +1,47 @@
+2022-12-19 16:25:53,607 - MOT - INFO - ++++++running new Tracker: 1 -  MainThread - 525924 
+2022-12-19 16:25:53,763 - MOT - INFO - ++++++running new Tracker: 2 -  MainThread - 525924 
+2022-12-19 16:25:53,798 - MOT - INFO - ++++++running new Tracker: 3 -  MainThread - 525924 
+2022-12-19 16:25:54,344 - MOT - INFO - ++++++running new Tracker: 4 -  MainThread - 525924 
+2022-12-19 16:25:54,381 - MOT - INFO - ++++++running new Tracker: 5 -  MainThread - 525924 
+2022-12-19 16:25:54,381 - MOT - INFO - ++++++running new Tracker: 6 -  MainThread - 525924 
+2022-12-19 16:25:54,458 - MOT - INFO - ++++++running new Tracker: 7 -  MainThread - 525924 
+2022-12-19 16:25:54,496 - MOT - INFO - remove tracker: 7 -  MainThread - 525924 
+2022-12-19 16:25:54,744 - MOT - INFO - ++++++running new Tracker: 8 -  MainThread - 525924 
+2022-12-19 16:25:54,847 - MOT - INFO - remove tracker: 4 -  MainThread - 525924 
+2022-12-19 16:25:54,909 - MOT - INFO - ++++++running new Tracker: 9 -  MainThread - 525924 
+2022-12-19 16:25:54,910 - MOT - INFO - remove tracker: 5 -  MainThread - 525924 
+2022-12-19 16:25:54,947 - MOT - INFO - remove tracker: 9 -  MainThread - 525924 
+2022-12-19 16:25:54,965 - MOT - INFO - ++++++running new Tracker: 10 -  MainThread - 525924 
+2022-12-19 16:25:54,965 - MOT - INFO - ++++++running new Tracker: 11 -  MainThread - 525924 
+2022-12-19 16:25:55,001 - MOT - INFO - ++++++running new Tracker: 12 -  MainThread - 525924 
+2022-12-19 16:25:55,001 - MOT - INFO - remove tracker: 6 -  MainThread - 525924 
+2022-12-19 16:25:55,001 - MOT - INFO - remove tracker: 3 -  MainThread - 525924 
+2022-12-19 16:25:55,118 - MOT - INFO - remove tracker: 8 -  MainThread - 525924 
+2022-12-19 16:25:55,273 - MOT - INFO - remove tracker: 10 -  MainThread - 525924 
+2022-12-19 16:25:55,466 - MOT - INFO - ++++++running new Tracker: 13 -  MainThread - 525924 
+2022-12-19 16:25:55,522 - MOT - INFO - ++++++running new Tracker: 14 -  MainThread - 525924 
+2022-12-19 16:25:55,779 - MOT - INFO - ++++++running new Tracker: 15 -  MainThread - 525924 
+2022-12-19 16:25:55,896 - MOT - INFO - remove tracker: 14 -  MainThread - 525924 
+2022-12-19 16:25:55,994 - MOT - INFO - remove tracker: 11 -  MainThread - 525924 
+2022-12-19 16:25:56,091 - MOT - INFO - ++++++running new Tracker: 16 -  MainThread - 525924 
+2022-12-19 16:25:56,187 - MOT - INFO - remove tracker: 16 -  MainThread - 525924 
+2022-12-19 16:25:56,224 - MOT - INFO - ++++++running new Tracker: 17 -  MainThread - 525924 
+2022-12-19 16:25:56,263 - MOT - INFO - remove tracker: 15 -  MainThread - 525924 
+2022-12-19 16:25:56,322 - MOT - INFO - ++++++running new Tracker: 18 -  MainThread - 525924 
+2022-12-19 16:25:56,322 - MOT - INFO - ++++++running new Tracker: 19 -  MainThread - 525924 
+2022-12-19 16:25:56,360 - MOT - INFO - remove tracker: 18 -  MainThread - 525924 
+2022-12-19 16:25:56,419 - MOT - INFO - remove tracker: 17 -  MainThread - 525924 
+2022-12-19 16:25:56,476 - MOT - INFO - ++++++running new Tracker: 20 -  MainThread - 525924 
+2022-12-19 16:25:56,552 - MOT - INFO - ++++++running new Tracker: 21 -  MainThread - 525924 
+2022-12-19 16:25:56,589 - MOT - INFO - remove tracker: 21 -  MainThread - 525924 
+2022-12-19 16:25:56,703 - MOT - INFO - remove tracker: 13 -  MainThread - 525924 
+2022-12-19 16:25:56,808 - MOT - INFO - ++++++running new Tracker: 22 -  MainThread - 525924 
+2022-12-19 16:25:56,808 - MOT - INFO - ++++++running new Tracker: 23 -  MainThread - 525924 
+2022-12-19 16:25:56,826 - MOT - INFO - remove tracker: 1 -  MainThread - 525924 
+2022-12-19 16:25:56,844 - MOT - INFO - remove tracker: 23 -  MainThread - 525924 
+2022-12-19 16:25:56,844 - MOT - INFO - remove tracker: 19 -  MainThread - 525924 
+2022-12-19 16:25:56,879 - MOT - INFO - ++++++running new Tracker: 24 -  MainThread - 525924 
+2022-12-19 16:25:56,879 - MOT - INFO - remove tracker: 22 -  MainThread - 525924 
+2022-12-19 16:25:56,896 - MOT - INFO - ++++++running new Tracker: 25 -  MainThread - 525924 
+2022-12-19 16:25:56,896 - MOT - INFO - ++++++running new Tracker: 26 -  MainThread - 525924 
+2022-12-19 16:25:56,966 - MOT - INFO - ++++++running new Tracker: 27 -  MainThread - 525924 
